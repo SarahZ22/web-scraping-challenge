@@ -1,10 +1,10 @@
-# Web Scraping Homework (Week 12 HW) - Mission to Mars
+### Web Scraping Homework (Week 12 HW) - Mission to Mars
 
-# Website Link: https://
+**Website Link:** https://sarahz22.github.io/web-scraping-challenge/
 
 Build a web application that scrapes various websites for data related to the Mission to Mars and display the information in a single HTML page.
 
-# Scraped Sites:\
+**Scraped Sites:**\
 [NASA Mars News Site](https://mars.nasa.gov/news/)\
 [JPL Featured Space Image](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)\
 [Mars Facts](https://space-facts.com/mars/)\
