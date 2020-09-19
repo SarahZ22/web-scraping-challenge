@@ -1,4 +1,4 @@
-### Web Scraping Homework (Week 12 HW) - Mission to Mars
+# Web Scraping Homework (Week 12 HW) - Mission to Mars
 
 Mission: Build a web application that scrapes various websites for data related to Mars and display the information in a single HTML page.\
 This data includes: latest mars news, current featured image, a table of mars facts, and various images of mars hemisperes.
