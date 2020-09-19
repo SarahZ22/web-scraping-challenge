@@ -17,5 +17,5 @@ This project contains:
 [Mars Facts](https://space-facts.com/mars/)\
 [USGS Astrogeology](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
-###Final Site Screencapture
+### Final Site Screencapture
 ![MarsPage](https://github.com/SarahZ22/Project_1_Tremors_Analysis/blob/master/Site_Screenshots/Top_Site_SC.PNG)
