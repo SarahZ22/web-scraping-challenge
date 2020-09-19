@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import pymongo
 import requests
+import time
 
 def init_browser():
     executable_path = {"executable_path": "chromedriver.exe"}
@@ -18,6 +19,7 @@ def scrape():
     # Define and retrieve the page
     url = 'https://mars.nasa.gov/news/'
     browser.visit(url)
+    time.sleep(1)
     html = browser.html
     soup = bs(html, "html.parser")
     #Scrape to get title and text
