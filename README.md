@@ -1,8 +1,8 @@
 ### Web Scraping Homework (Week 12 HW) - Mission to Mars
 
-Build a web application that scrapes various websites for data related to the Mission to Mars and display the information in a single HTML page.
+Mission: Build a web application that scrapes various websites for data related to the Mission to Mars and display the information in a single HTML page.
 
-This project contains:\
+This project contains:
 - A Jupyter Notebook containing the scraping code
 - Two python.py files
     - Scrape_mars.py executes the scraping code & stores results in a dictionary
