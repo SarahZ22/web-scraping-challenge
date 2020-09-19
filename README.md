@@ -1,8 +1,14 @@
 ### Web Scraping Homework (Week 12 HW) - Mission to Mars
 
-**Website Link:** https://sarahz22.github.io/web-scraping-challenge/
-
 Build a web application that scrapes various websites for data related to the Mission to Mars and display the information in a single HTML page.
+
+This project contains:\
+- A Jupyter Notebook containing the scraping code
+- Two python.py files
+    - Scrape_mars.py executes the scraping code & stores results in a dictionary
+    - app.py puts this data in a mongo database using flask and then links it to the index.html document to create the "website"
+- An index.html file for the created "website" that will execute the script to scrape new data when a button at the top of the page is clicked
+- Screenshots of the final web application after it has been run
 
 **Scraped Sites:**\
 [NASA Mars News Site](https://mars.nasa.gov/news/)\
